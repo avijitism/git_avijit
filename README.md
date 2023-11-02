@@ -1,5 +1,5 @@
 # Underwater-image-color-enhancement-with-PSO-python-implementation
-
+Enhancing the color of underwater images can be a challenging task due to the distortion and loss of color caused by the water medium. Particle Swarm Optimization (PSO) is a popular optimization algorithm that can be used to enhance the color of underwater images. Here's a Python implementation of color enhancement using PSO:
 Implemented the research paper, [Natural-based underwater image color enhancement through fusion of swarm-intelligence algorithm](http://umpir.ump.edu.my/id/eprint/26347/) in python language. <br />
 ### The Four steps strategy followed in NUCE method:
 - Superior based underwater color cast neutralization
